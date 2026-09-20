@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "adzuna-india-software",
+      "type": "adzuna",
+      "enabled": false,
+      "country": "in",
+      "query": "software engineer",
+      "where": "India",
+      "results_per_page": 50
+    },
+    {
+      "name": "lever-example",
+      "type": "lever_public",
+      "enabled": false,
+      "company_slug": "examplecompany",
+      "company_name": "Example Company"
+    }
+  ]
+}
